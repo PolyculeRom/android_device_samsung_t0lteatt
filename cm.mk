@@ -16,7 +16,7 @@ $(call inherit-product, device/samsung/t0lteatt/full_t0lteatt.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := t0lteatt
-PRODUCT_NAME := cm_t0lteatt
+PRODUCT_NAME := poly_t0lteatt
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SAMSUNG-SGH-I317
 PRODUCT_MANUFACTURER := samsung
